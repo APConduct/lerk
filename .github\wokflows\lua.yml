@@ -1,0 +1,6 @@
+              - name: Install Lua/LuaJIT
+                uses: leafo/gh-actions-lua@v10.0.0
+
+              - name: Install Lua/LuaJIT
+                uses: leafo/gh-actions-lua@v10.0.0
+            
